@@ -1,0 +1,76 @@
+{
+  "ok": true,
+  "result": [
+    {
+      "update_id": 970397822,
+      "message": {
+        "message_id": 1,
+        "from": {
+          "id": 384635015,
+          "is_bot": false,
+          "first_name": "Dexploitdm",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 384635015,
+          "first_name": "Dexploitdm",
+          "type": "private"
+        },
+        "date": 1518355743,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 970397823,
+      "message": {
+        "message_id": 2,
+        "from": {
+          "id": 384635015,
+          "is_bot": false,
+          "first_name": "Dexploitdm",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 384635015,
+          "first_name": "Dexploitdm",
+          "type": "private"
+        },
+        "date": 1518355770,
+        "text": "/start",
+        "entities": [
+          {
+            "offset": 0,
+            "length": 6,
+            "type": "bot_command"
+          }
+        ]
+      }
+    },
+    {
+      "update_id": 970397824,
+      "message": {
+        "message_id": 4,
+        "from": {
+          "id": 384635015,
+          "is_bot": false,
+          "first_name": "Dexploitdm",
+          "language_code": "ru"
+        },
+        "chat": {
+          "id": 384635015,
+          "first_name": "Dexploitdm",
+          "type": "private"
+        },
+        "date": 1518359564,
+        "text": "привет"
+      }
+    }
+  ]
+}
